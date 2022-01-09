@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramesh Jhande
 - 👀 I am intersted in JS, Mulesoft, Coding and API Managament and development.  
 - 🌱 I’m currently working Node.js advance js Concept and Mulesoft. 
-- 💞️ I’m looking to collaborate on Node.js, advance Js and more on API management. 
+- 💞️ I’m looking to collaborate on Node.js, React JS, advance Js and more on API management. 
 - 📫 How to reach me Jhande00@gmail.com, 
 
 <!---
